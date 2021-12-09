@@ -1,0 +1,13 @@
+.instructions {
+    font-size: x-large;
+}
+
+.label-font {
+    font-size: large;
+    /* text-align: left; */
+}
+
+.result-output {
+    font-size: large;
+    text-align: left;
+}
