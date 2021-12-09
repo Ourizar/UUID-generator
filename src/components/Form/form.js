@@ -53,7 +53,7 @@ return(
                    </input>
                 </div>
                 <div class="row">
-                        <button name ="button" type="submit" class="btn-success btn-lg"  onSubmit={handleFormSubmit}>Submit</button>
+                        <button name ="button" type="submit" class="btn-success btn-lg"  onSubmit={handleFormSubmit}>Clear</button>
                 </div>
             </div>
         </div>
